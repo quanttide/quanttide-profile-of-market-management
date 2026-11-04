@@ -12,4 +12,5 @@
 
 ### 新增
 
+- 迁入《同理心》（同理心的形式化建模：结构识别+位置映射+行为预测，锚点为营销问题≈甲方看市场问题），自 quanttide-context-of-meta-engineering 的 `profile/quanttide-market/` 迁入，源侧不留副本
 - 仓库初始化：README、CHANGELOG 与许可
